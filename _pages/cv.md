@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical and Computer Engineering, University of Florida, 2023
+* M.S. in Electrical and Computer Engineering, University of Florida, 2019
+* B.S. in Electrical Engineering and Automation, Nanjing University of Science and Technology, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July. 2019 ~ Present: Postdoc Researcher
+  * University of California Santa Cruz
+  * Duties included: Research on Accelerating Wound Healing with Deep Reinforcement Learning
+  * Supervisor: [Prof. Marcella Gomez](https://engineering.ucsc.edu/voices/marcella-gomez-faculty/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug. 2019 ~ May. 2023: Graduate Research Assistant
+  * University of Florida
+  * Duties included: Research on Reinforcement Learning
+  * Supervisor: [Prof. Sean Meyn](https://meyn.ece.ufl.edu/about/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, SQL, C/C++
+* Machine/Deep Learning, Optimal Control
+* Data Wrangling/Visualization
+  * Numpy, Pandas, Matplotlib, Seanborn
+  * Tableau
 
 Publications
 ======
@@ -54,6 +53,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[//]: # (Service and leadership)
+
+[//]: # (======)
+
+[//]: # (* Currently signed in to 43 different slack teams)
