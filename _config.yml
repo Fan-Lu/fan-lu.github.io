@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fan Lu"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Fan Lu"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Fan-Lu"
+  github           : Fan-Lu
   google_plus      :
   keybase          :
   instagram        :
